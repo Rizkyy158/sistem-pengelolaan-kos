@@ -19,6 +19,6 @@ SRS, Use Case, Activity, Sequence, State Machine, Class, dan Object
 Diagram tersimpan di folder docs/.
  
 ## Anggota Kelompok
-- [Nama anggota 1] - [username GitHub]
+- [Rigen Jatmiko] - [jatmikorigen]
 - [Hamim Ramadhan] - [HamimRamadhan]
 - [Muhamad Rizky Alfariz] - [Rizkyy158]
