@@ -20,5 +20,5 @@ Diagram tersimpan di folder docs/.
  
 ## Anggota Kelompok
 - [Nama anggota 1] - [username GitHub]
-- [Nama anggota 2] - [username GitHub]
+- [Hamim Ramadhan] - [HamimRamadhan]
 - [Muhamad Rizky Alfariz] - [Rizkyy158]
